@@ -11,7 +11,7 @@
 
 #### to add a service:
 * 1.copy the weatherService folder
-* 2.change the names and log in Controller
+* 2.change the names and logic in Controller
 * 3.change the port in resources\application.yml for this package
 * 4 done!
 
