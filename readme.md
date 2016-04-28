@@ -2,6 +2,7 @@
 
 ### Linkes:
 1.weather service: http://localhost:8040/weather?zip=*****
+
 2.book service: http://localhost:8050/book?bibkeys=<ISBN>  (The API supports both ISBN 10 and 13. ex. 0451526538)
 
 
