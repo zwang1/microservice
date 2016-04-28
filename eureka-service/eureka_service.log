@@ -478,3 +478,5 @@ java.lang.IllegalArgumentException: null source
 2016-04-27 21:52:08.575  WARN 9249 --- [http-nio-8761-exec-9] c.n.eureka.resources.InstanceResource    : Time to sync, since the last dirty timestamp differs - ReplicationInstance id : localhost:book:8050,Registry : 1461819068524 Incoming: 1461819108536 Replication: false
 2016-04-27 21:52:08.583  INFO 9249 --- [http-nio-8761-exec-10] com.netflix.eureka.InstanceRegistry      : Registered instance id localhost:book:8050 with status UP
 2016-04-27 21:55:06.743  WARN 9249 --- [Eureka-PeerNodesUpdater] c.n.eureka.PeerAwareInstanceRegistry     : The replica size seems to be empty. Check the route 53 DNS Registry
+2016-04-27 22:05:06.765  WARN 9249 --- [Eureka-PeerNodesUpdater] c.n.eureka.PeerAwareInstanceRegistry     : The replica size seems to be empty. Check the route 53 DNS Registry
+2016-04-27 22:05:06.765  INFO 9249 --- [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.eureka.PeerAwareInstanceRegistry     : Current renewal threshold is : 0
