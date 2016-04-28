@@ -9,8 +9,8 @@
 * 3. mvn spring-boot:run
 * 4. need to start eureka serivice so others can run
 
-#### to add a server:
-* 1.copy the webservice folder
+#### to add a service:
+* 1.copy the weatherService folder
 * 2.change the names and log in Controller
 * 3.change the port in resources\application.yml for this package
 * 4 done!
