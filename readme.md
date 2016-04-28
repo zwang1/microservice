@@ -1,2 +1,19 @@
-readme
+###MicroService
+#1.weather service: http://localhost:8040/weather?zip=*****
+
+
+
+to run:
+1. go to each service folder
+2. mvn install
+3. mvn spring-boot:run
+4. need to start eureka serivice so others can run
+
+to add a server:
+1.copy the webservice folder
+2.change the names and log in Controller
+3.change the port in resources\application.yml for this package
+4 done!
+
+
 
